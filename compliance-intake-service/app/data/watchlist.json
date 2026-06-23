@@ -1,0 +1,7 @@
+[
+  {"name": "Ivan Sokolov", "category": "sanctions", "list_name": "OFAC SDN (mock)"},
+  {"name": "Maria Gomez", "category": "sanctions", "list_name": "OFAC SDN (mock)"},
+  {"name": "Global Shell Holdings LLC", "category": "sanctions", "list_name": "OFAC SDN (mock)"},
+  {"name": "Robert King", "category": "pep", "list_name": "PEP (mock)"},
+  {"name": "Aisha Bello", "category": "pep", "list_name": "PEP (mock)"}
+]
